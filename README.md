@@ -13,10 +13,6 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JNGO27&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
 <p>Front-End Development:</p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge") />
