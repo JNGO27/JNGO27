@@ -5,7 +5,7 @@
 - 🔭 A Fullstack Software engineer with a passion for building user interfaces from CA.
 - 🌱 I’m currently improving on Data Structures and Algorithms.
 - ⚡ Fun fact: I was a competetive classical guitarist and learned from the worlds best including GRAMMY award winners and touring concert artists!.
-- 💬 I'm heavily intersted in TypeScript, React, API Design, and a genuine curiosity of truly understanding how things work under the hood.
+- 💬 I'm heavily intersted in Building Products, TypeScript, React, API Design, and a genuine curiosity of truly understanding how things work under the hood.
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/joseph-ochoa-14a69aa0/">
